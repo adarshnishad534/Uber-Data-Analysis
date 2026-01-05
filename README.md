@@ -62,3 +62,11 @@ KPI’s (Key Performance Indicators)
 
 5.Add Hide and Show Filter panel for safe spacing.
 And add many filters on report.
+
+<img width="1349" height="740" alt="Screenshot (126)" src="https://github.com/user-attachments/assets/720aa32b-2c76-41fd-9e99-8ac4f7094480" />
+<img width="1351" height="738" alt="Screenshot (127)" src="https://github.com/user-attachments/assets/2e1e3d52-8067-42f9-a4ce-87d6bfdfe981" />
+
+
+
+
+
