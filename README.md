@@ -1,5 +1,7 @@
-# Uber-Data-Analysis
-Uber Problems and Bussiness Requirements
+
+<h1>Uber-Data-Analysis Dashboard Using PowerBI</h1>
+
+An interactive Power BI dashboard for analyzing ride-sharing data to derive actionable business insights. Track bookings, revenue, customer behavior, driver performance, and operational efficiency across the Uber ecosystem.
 
 1.Overview Page.
 
